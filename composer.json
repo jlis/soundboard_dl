@@ -1,0 +1,5 @@
+{
+    "require": {
+        "chuyskywalker/rolling-curl": "^3.1"
+    }
+}
